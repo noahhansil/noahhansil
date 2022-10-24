@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Noah Hansil
 - 👀 I’m interested in all aspects of Data Science, including Data Manipulation, Data Visualization, Exploratory Data Analysis, Machine Learning (supervised/unsurpervised)
-- 🌱 I’m currently learning High Level SQL and Natural Language Processing (NLP)
-- 💞️ I’m looking to collaborate on ..
+- 🌱 I’m currently learning Computer Vision 
 - 📫 You can reach me at my personal email: nhansil@outlook.com
 
 <!---
